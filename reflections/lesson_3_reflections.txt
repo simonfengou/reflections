@@ -9,3 +9,7 @@ Much like manually deciding when to commit, manually deciding allows user to mak
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork = cloning from another repository, but in a way that allows linking back to original repository. Cloning is copying entire repository. Branches are creating new versions within a repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can anticipate what kind of merge is needed to sync up again.
