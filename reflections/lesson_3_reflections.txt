@@ -13,3 +13,7 @@ Fork = cloning from another repository, but in a way that allows linking back to
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can anticipate what kind of merge is needed to sync up again.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaborating without github request working with one file (perhaps with the file on the cloud such as Google Drive). It would be simpler than using github.  However, you would not be able to work on things separately as well, and you will always need to be connected to the internet.
