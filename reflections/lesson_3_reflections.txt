@@ -9,3 +9,15 @@ Much like manually deciding when to commit, manually deciding allows user to mak
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork = cloning from another repository, but in a way that allows linking back to original repository. Cloning is copying entire repository. Branches are creating new versions within a repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can anticipate what kind of merge is needed to sync up again.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaborating without github request working with one file (perhaps with the file on the cloud such as Google Drive). It would be simpler than using github.  However, you would not be able to work on things separately as well, and you will always need to be connected to the internet.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are not sure about a particular change, you should make the change in a separate branch.
